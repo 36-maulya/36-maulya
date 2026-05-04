@@ -20,7 +20,7 @@ Focused on developing efficient, scalable solutions and preparing for software e
 
 <td width="40%" align="center">
 
-<img src="https://github.com/36-maulya/36-maulya/commit/b05b4084146e5ebb9bb424c626b1356b331ac4b3#diff-ed369e28876990d1925a63cd002afe1d25e04721292ce6155fec681db0634788" width="220"/>
+<img src="https://raw.githubusercontent.com/36-maulya/36-maulya/main/avatar.png" width="220"/>
 
 </td>
 </tr>
