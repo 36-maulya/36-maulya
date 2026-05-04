@@ -1,13 +1,12 @@
-
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E50914&height=200&section=header&text=Maulya&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=200&section=header&text=Maulya%20👩‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=E50914&lines=Full+Stack+Developer;MERN+Stack+Builder;Machine+Learning+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Builder;Machine+Learning+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=40">
 </p>
 
 ---
@@ -87,12 +86,12 @@ Code: ADD_LINK
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:maulyads@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-E50914?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=100&section=footer"/>
 </p>
