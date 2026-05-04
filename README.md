@@ -35,8 +35,6 @@ Code: https://github.com/36-maulya/book_show_1
 - Built and trained a CNN model for classification  
 - Implemented image correction for rotation and alignment  
 
-Code: ADD_LINK  
-
 ---
 
 ## Skills
