@@ -7,10 +7,24 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ## About Me
 
 Computer Science student with hands-on experience in building real-world applications and a strong ability to learn and adapt to new technologies.  
 Focused on developing efficient, scalable solutions and preparing for software engineering roles.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR_IMAGE_LINK" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
