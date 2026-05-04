@@ -55,17 +55,7 @@ Source Code: ADD_LINK
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,tensorflow" />
-</p>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=36-maulya&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=36-maulya&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python" />
 </p>
 
 ---
@@ -81,10 +71,10 @@ Source Code: ADD_LINK
 ## Contact
 
 <p align="center">
-  <a href="ADD_LINKEDIN">
+  <a href="https://www.linkedin.com/in/maulya-ds">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:ADD_EMAIL">
+  <a href="mailto:maulyads@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
