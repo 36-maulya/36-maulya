@@ -1,8 +1,12 @@
-<h1 align="center">Maulya</h1>
+<h1 align="center" style="color:#e50914;">MAULYA</h1>
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E50914&lines=Entering+the+Upside+Down...;Full+Stack+Developer;MERN+Stack+Builder;Machine+Learning+Enthusiast;Future+Software+Engineer&center=true&width=500&height=40">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E50914&height=120&section=header"/>
 </p>
 
 ---
@@ -72,15 +76,19 @@ Source Code: ADD_LINK
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maulya-d-s">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:maulyads@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-E50914?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Focused on building reliable systems and continuously improving as a developer</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:000000&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b style="color:#e50914;">Exploring systems beyond the surface — building in the real world.</b>
 </p>
