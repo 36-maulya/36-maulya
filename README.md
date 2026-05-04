@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Maulya</h1>
+<h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
 
-<!--
-**36-maulya/36-maulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=40">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 3rd Year Computer Science student focused on Software Engineering roles  
+- Building real-world full stack applications using MERN stack  
+- Exploring machine learning with practical implementations  
+- Strong interest in problem solving and system design fundamentals  
+
+---
+
+## Featured Projects
+
+### BookShow – Movie Ticket Booking Platform
+Full-stack production-ready application with real-time seat booking functionality.
+
+- Tech Stack: React, Node.js, Express, MongoDB  
+- Authentication and authorization system  
+- Real-time seat selection and booking flow  
+- Booking and user management system  
+
+Live Demo: https://book-show-1.vercel.app  
+Source Code: https://github.com/36-maulya/book_show_1  
+
+---
+
+### Lung Disease Detection (Machine Learning)
+Deep learning-based medical image classification system using CNN.
+
+- Built using Python and TensorFlow  
+- Trained model for X-ray image analysis  
+- High accuracy prediction system  
+
+Source Code: ADD_LINK  
+
+---
+
+### Smart Task Scheduler
+Task management system with intelligent prioritization.
+
+- Designed for productivity and efficient task handling  
+- Clean frontend with structured backend logic  
+
+Source Code: ADD_LINK  
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,tensorflow" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=36-maulya&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=36-maulya&theme=tokyonight" />
+</p>
+
+---
+
+## Current Focus
+
+- Strengthening Data Structures and Algorithms  
+- Improving backend and system design fundamentals  
+- Preparing for software engineering placements  
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="ADD_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:ADD_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Focused on building reliable systems and continuously improving as a developer</b>
+</p>
