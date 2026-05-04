@@ -1,58 +1,56 @@
-<h1 align="center" style="color:#e50914;">MAULYA</h1>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E50914&height=200&section=header&text=Maulya&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=E50914&lines=Entering+the+Upside+Down...;Full+Stack+Developer;MERN+Stack+Builder;Machine+Learning+Enthusiast;Future+Software+Engineer&center=true&width=500&height=40">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E50914&height=120&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E50914&lines=Full+Stack+Developer;MERN+Stack+Builder;Machine+Learning+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=40">
 </p>
 
 ---
 
 ## About Me
 
-- 3rd Year Computer Science student focused on Software Engineering roles  
-- Building real-world full stack applications using MERN stack  
-- Exploring machine learning with practical implementations  
-- Strong interest in problem solving and system design fundamentals  
+I am a 3rd Year Computer Science student focused on building real-world applications and preparing for software engineering roles.  
+My primary interest lies in full-stack development and exploring machine learning systems.
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### BookShow – Movie Ticket Booking Platform
-Full-stack production-ready application with real-time seat booking functionality.
+Full-stack application with real-time seat booking functionality.
 
-- Tech Stack: React, Node.js, Express, MongoDB  
-- Authentication and authorization system  
-- Real-time seat selection and booking flow  
-- Booking and user management system  
+- React, Node.js, Express, MongoDB  
+- Authentication and booking system  
+- Real-time seat selection  
 
-Live Demo: https://book-show-1.vercel.app  
-Source Code: https://github.com/36-maulya/book_show_1  
+Live: https://book-show-1.vercel.app  
+Code: https://github.com/36-maulya/book_show_1  
 
 ---
 
 ### Lung Disease Detection (Machine Learning)
-Deep learning-based medical image classification system using CNN.
+Deep learning model for medical image classification.
 
-- Built using Python and TensorFlow  
-- Trained model for X-ray image analysis  
-- High accuracy prediction system  
+- Python, TensorFlow  
+- CNN-based X-ray analysis  
+- High accuracy prediction  
 
-Source Code: ADD_LINK  
+Code: ADD_LINK  
 
 ---
 
 ### Smart Task Scheduler
-Task management system with intelligent prioritization.
+Task management system with prioritization logic.
 
-- Designed for productivity and efficient task handling  
-- Clean frontend with structured backend logic  
+- Designed for efficient task handling  
+- Clean frontend and backend structure  
 
-Source Code: ADD_LINK  
+Code: ADD_LINK  
 
 ---
 
@@ -64,15 +62,25 @@ Source Code: ADD_LINK
 
 ---
 
+## GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=36-maulya&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=36-maulya&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## Current Focus
 
-- Strengthening Data Structures and Algorithms  
-- Improving backend and system design fundamentals  
+- Data Structures and Algorithms  
+- Backend and system design fundamentals  
 - Preparing for software engineering placements  
 
 ---
 
-## Contact
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maulya-d-s">
@@ -86,9 +94,5 @@ Source Code: ADD_LINK
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:000000&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b style="color:#e50914;">Exploring systems beyond the surface — building in the real world.</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=100&section=footer"/>
 </p>
