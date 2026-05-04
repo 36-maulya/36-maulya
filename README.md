@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
- <img src="./screenshots/avatar.png" width="220"/>
+ <img src="./screenshot/avatar.png" width="220"/>
 </p>
 
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
@@ -20,7 +20,7 @@ Focused on developing efficient, scalable solutions and preparing for software e
 
 <td width="40%" align="center">
 
-<img <img src="./screenshots/avatar.png" width="220"/> width="220"/>
+<img <img src="./screenshot/avatar.png" width="220"/> width="220"/>
 
 </td>
 </tr>
