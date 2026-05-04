@@ -1,80 +1,67 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20Maulya%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=220&section=header&text=Maulya%20D%20S&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Builder;Machine+Learning+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=40">
-</p>
 
 ---
 
 ## About Me
 
-I am a 3rd Year Computer Science student focused on building real-world applications and preparing for software engineering roles.  
-My primary interest lies in full-stack development and exploring machine learning systems.
+Computer Science student with hands-on experience in building real-world applications and a strong ability to learn and adapt to new technologies.  
+Focused on developing efficient, scalable solutions and preparing for software engineering roles.
 
 ---
 
-## Featured Work
+## Projects
 
-### BookShow – Movie Ticket Booking Platform
-Full-stack application with real-time seat booking functionality.
+### BookShow – Movie Ticket Booking Web Application (MERN)
 
-- React, Node.js, Express, MongoDB  
-- Authentication and booking system  
-- Real-time seat selection  
+- Built a full-stack application using React, Node.js, Express, and MongoDB  
+- Implemented secure authentication and authorization using Clerk  
+- Designed RESTful APIs for movies, bookings, and user management  
+- Developed responsive UI with dynamic seat selection and admin dashboard  
 
 Live: https://book-show-1.vercel.app  
 Code: https://github.com/36-maulya/book_show_1  
 
 ---
 
-### Lung Disease Detection (Machine Learning)
-Deep learning model for medical image classification.
+### AI-Based Chest Radiograph Alignment & Correction
 
-- Python, TensorFlow  
-- CNN-based X-ray analysis  
-- High accuracy prediction  
+- Developed an AI system to detect and correct misalignment in chest X-rays  
+- Annotated 4000+ radiographs for clavicle symmetry analysis  
+- Built and trained a CNN model for classification  
+- Implemented image correction for rotation and alignment  
 
 Code: ADD_LINK  
 
 ---
 
-### Smart Task Scheduler
-Task management system with prioritization logic.
+## Skills
 
-- Designed for efficient task handling  
-- Clean frontend and backend structure  
-
-Code: ADD_LINK  
+**Languages:** Java, Python, C  
+**Core:** Data Structures & Algorithms, DBMS, OS, Computer Networks, OOP  
+**Web:** React.js, Node.js, Express.js, REST APIs  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Postman  
+**Authentication:** Clerk  
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python" />
-</p>
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=36-maulya&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=36-maulya&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,java,c" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Data Structures and Algorithms  
-- Backend and system design fundamentals  
+- Strengthening Data Structures and Algorithms  
+- Improving backend development and system design  
 - Preparing for software engineering placements  
 
 ---
@@ -93,5 +80,5 @@ Code: ADD_LINK
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=100&section=footer"/>
+  <b>Focused on building scalable systems and continuously improving as a developer</b>
 </p>
