@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=220&section=header&text=Maulya%20D%20S&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+ <img src="https://raw.githubusercontent.com/36-maulya/36-maulya/main/YOUR_IMAGE_NAME.png" width="220"/>
 </p>
 
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
