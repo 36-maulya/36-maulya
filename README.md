@@ -71,7 +71,7 @@ Source Code: ADD_LINK
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maulya-ds">
+  <a href="https://www.linkedin.com/in/maulya-d-s">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:maulyads@gmail.com">
